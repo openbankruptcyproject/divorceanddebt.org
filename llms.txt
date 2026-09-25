@@ -1,24 +1,77 @@
 # Divorce and Bankruptcy - Which to File First? [2026] - Divorceanddebt
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Should you file bankruptcy before or after divorce? Shared debts, property division, and strategic timing. 2026 guide.
+> Should you file bankruptcy before or after divorce? Shared debts, property división, and strategic timing. 2026 guide.
 
 ## About
 divorceanddebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Timing and Divorce - Before, During, or After? - Divorceanddebt: https://divorceanddebt.org/bankruptcy-timing-and-divorce.html
-- Community Property States and Debt in Divorce - Divorceanddebt: https://divorceanddebt.org/community-property-states.html
-- Credit Card Debt in Divorce - Joint Cards, Authorized Users, and Division - Divorceanddebt: https://divorceanddebt.org/credit-card-debt-divorce.html
-- Domestic Support Obligations in Bankruptcy - What Cannot Be Discharged - Divorceanddebt: https://divorceanddebt.org/domestic-support-obligations.html
-- Filing Bankruptcy During Divorce - What You Need to Know - Divorceanddebt: https://divorceanddebt.org/filing-during-divorce.html
-- Hold Harmless Clauses in Divorce - What They Mean and Their Limits - Divorceanddebt: https://divorceanddebt.org/hold-harmless-clauses.html
+- Bankruptcy Timing and Divorce [2026]: File Before, During, or After Divorce: https://divorceanddebt.org/bankruptcy-timing-and-divorce.html
+- Community Property States and Divorce Debt [2026]: 11 USC 524(a)(3) Phantom Discharge: https://divorceanddebt.org/community-property-states.html
+- Credit Card Debt in Divorce [2026]: Joint, Authorized User, and 523(a)(15) Hold-Harmless: https://divorceanddebt.org/credit-card-debt-divorce.html
+- Domestic Support Obligations [2026]: 11 USC 101(14A) Definition and Discharge Treatment: https://divorceanddebt.org/domestic-support-obligations.html
+- Filing Bankruptcy During Divorce - What You Need to Know: https://divorceanddebt.org/filing-during-divorce.html
+- Hold-Harmless Clauses in Divorce [2026]: 11 USC 523(a)(15) and the Chapter 13 Discharge Path: https://divorceanddebt.org/hold-harmless-clauses.html
 - Divorce and Bankruptcy - Which to File First? [2026] - Divorceanddebt: https://divorceanddebt.org/
 - Joint Debt After Divorce - Protecting Yourself When Your Ex Doesn't Pay - Divorceanddebt: https://divorceanddebt.org/joint-debt-after-divorce.html
-- Marital Debt Division in Divorce - Who Pays What? - Divorceanddebt: https://divorceanddebt.org/marital-debt-division.html
-- Mortgage After Divorce - Refinancing, Selling, and Protecting Your Credit - Divorceanddebt: https://divorceanddebt.org/mortgage-after-divorce.html
-- Student Loans in Divorce - Division, Responsibility, and Bankruptcy - Divorceanddebt: https://divorceanddebt.org/student-loans-in-divorce.html
+- Marital Debt Division [2026]: How State Family Courts Apportion Joint Debts: https://divorceanddebt.org/marital-debt-division.html
+- Mortgage After Divorce [2026]: Refinance, Assumption, and 11 USC 1322(b)(5) Cure: https://divorceanddebt.org/mortgage-after-divorce.html
+- Student Loans in Divorce [2026]: Federal vs Private and Joint Consolidation Loans: https://divorceanddebt.org/student-loans-in-divorce.html
 - Privacy Policy: https://divorceanddebt.org/privacy.html
+- About divorceanddebt.org: https://divorceanddebt.org/about.html
+- Divorce and Debt in Alabama [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/alabama.html
+- Divorce and Debt in Alaska [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/alaska.html
+- Divorce and Debt in Arizona [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/arizona.html
+- Divorce and Debt in Arkansas [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/arkansas.html
+- Divorce and Debt in California [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/california.html
+- Divorce and Debt in Colorado [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/colorado.html
+- Divorce and Debt in Connecticut [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/connecticut.html
+- Divorce and Debt in Delaware [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/delaware.html
+- Divorce and Debt in District of Columbia [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/district-of-columbia.html
+- Divorce and Debt in Florida [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/florida.html
+- Divorce and Debt in Georgia [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/georgia.html
+- Divorce and Debt in Hawaii [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/hawaii.html
+- Divorce and Debt in Idaho [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/idaho.html
+- Divorce and Debt in Illinois [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/illinois.html
+- Divorce and Debt by State by State: https://divorceanddebt.org/states/
+- Divorce and Debt in Indiana [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/indiana.html
+- Divorce and Debt in Iowa [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/iowa.html
+- Divorce and Debt in Kansas [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/kansas.html
+- Divorce and Debt in Kentucky [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/kentucky.html
+- Divorce and Debt in Louisiana [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/louisiana.html
+- Divorce and Debt in Maine [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/maine.html
+- Divorce and Debt in Maryland [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/maryland.html
+- Divorce and Debt in Massachusetts [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/massachusetts.html
+- Divorce and Debt in Michigan [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/michigan.html
+- Divorce and Debt in Minnesota [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/minnesota.html
+- Divorce and Debt in Mississippi [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/mississippi.html
+- Divorce and Debt in Missouri [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/missouri.html
+- Divorce and Debt in Montana [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/montana.html
+- Divorce and Debt in Nebraska [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/nebraska.html
+- Divorce and Debt in Nevada [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/nevada.html
+- Divorce and Debt in New Hampshire [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/new-hampshire.html
+- Divorce and Debt in New Jersey [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/new-jersey.html
+- Divorce and Debt in New Mexico [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/new-mexico.html
+- Divorce and Debt in New York [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/new-york.html
+- Divorce and Debt in North Carolina [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/north-carolina.html
+- Divorce and Debt in North Dakota [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/north-dakota.html
+- Divorce and Debt in Ohio [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/ohio.html
+- Divorce and Debt in Oklahoma [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/oklahoma.html
+- Divorce and Debt in Oregon [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/oregon.html
+- Divorce and Debt in Pennsylvania [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/pennsylvania.html
+- Divorce and Debt in Rhode Island [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/rhode-island.html
+- Divorce and Debt in South Carolina [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/south-carolina.html
+- Divorce and Debt in South Dakota [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/south-dakota.html
+- Divorce and Debt in Tennessee [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/tennessee.html
+- Divorce and Debt in Texas [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/texas.html
+- Divorce and Debt in Utah [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/utah.html
+- Divorce and Debt in Vermont [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/vermont.html
+- Divorce and Debt in Virginia [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/virginia.html
+- Divorce and Debt in Washington [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/washington.html
+- Divorce and Debt in West Virginia [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/west-virginia.html
+- Divorce and Debt in Wisconsin [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/wisconsin.html
+- Divorce and Debt in Wyoming [2026]: Marital Property, DSO, and Bankruptcy Timing: https://divorceanddebt.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
